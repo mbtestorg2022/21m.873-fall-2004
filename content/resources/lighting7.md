@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ed08e705-a0cb-425b-fec6-178c4a073ad8
 resourcetype: Image
 title: lighting7.jpg
 uid: dd0207f5-8368-7254-e597-feb24b7a14c9

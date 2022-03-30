@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ed08e705-a0cb-425b-fec6-178c4a073ad8
 resourcetype: Image
 title: window_models.jpg
 uid: 724d5e9f-ea3c-a819-087e-aecdbaf88ab6
