@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 21187ca4-8962-298d-dd8c-bee3c4c60835
 title: Production Gallery
 uid: 315260ba-8657-b09e-9068-12a48feca98d

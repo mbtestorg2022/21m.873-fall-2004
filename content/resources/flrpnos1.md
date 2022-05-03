@@ -3,6 +3,10 @@ content_type: resource
 description: This resource gives an image of a set design.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/cb3d5ef739b560525eabc40a49a32035_flrpnos1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: ed08e705-a0cb-425b-fec6-178c4a073ad8
 resourcetype: Document
 title: flrpnOS1.pdf
