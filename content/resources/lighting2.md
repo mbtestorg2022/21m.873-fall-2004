@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
+parent_uid: ed08e705-a0cb-425b-fec6-178c4a073ad8
 resourcetype: Image
 title: lighting2.jpg
 uid: c4df8d11-dc62-d4cc-ed5f-280d61679b41

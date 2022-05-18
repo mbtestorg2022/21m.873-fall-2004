@@ -7,6 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
+parent_uid: ed08e705-a0cb-425b-fec6-178c4a073ad8
 resourcetype: Image
 title: tabledimensions.jpg
 uid: d83af81c-6a5f-b074-b84c-62b621f4f969
