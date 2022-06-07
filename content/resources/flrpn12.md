@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Set design.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/6cb2748eb64468e9041a00f4508a4bc1_flrpn12.pdf
+description: ''
+file: /courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005/6cb2748eb64468e9041a00f4508a4bc1_flrpn12.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,4 @@ resourcetype: Document
 title: flrpn12.pdf
 uid: 6cb2748e-b644-68e9-041a-00f4508a4bc1
 ---
+Set design.
